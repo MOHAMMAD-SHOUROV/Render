@@ -31,11 +31,11 @@ module.exports = {
                 message.unsend(waitMsg.messageID);
             }, 4000);
 
-            const botName = "𝑴𝑨𝑯𝑨𝑩𝑼𝑩-𝑩𝑶𝑻";
+            const botName = "𝐒𝐇𝐎𝐔𝐑𝐎𝐕-𝐁𝐎𝐓";
             const botPrefix = `${global.GoatBot.config.prefix}`;
-            const authorName = "𝑴𝑨𝑯𝑨𝑩𝑼𝑩 𝑹𝑨𝑯𝑴𝑨𝑵";
-            const authorFB = "https://www.facebook.com/www.xnxx.com140";
-            const authorInsta = "@mahabub_rahman_404";
+            const authorName = "𝐀𝐥𝐈𝐇𝐒𝐀𝐍 𝐒𝐇𝐎𝐔𝐑𝐎𝐕";
+            const authorFB = "https://www.facebook.com/shourov.sm24";
+            const authorInsta = "@shourov.sm24";
             const status = "𝑺𝑰𝑵𝑮𝑳𝑬..!";
 
             const now = moment().tz('Asia/Dhaka');
